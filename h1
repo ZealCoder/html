@@ -1,0 +1,17 @@
+1.居中格式：align=“center”
+
+2.增加虚线：<hr />
+
+3.隐藏注释：<!-- 隐藏注释 -->
+
+4.增加背景颜色：bgcolor="yellow"
+
+5.pre:<pre>
+	a
+ 	 b
+   	  c
+	</pre> 输出: a
+			b
+			   c
+
+6.<del>和<ins>的使用
